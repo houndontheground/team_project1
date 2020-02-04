@@ -17,4 +17,5 @@ c. Who has the ability to create or delete remote branches?
 d.When should you do a code review?
     Before you commit and push
     
-e. 
+e. Is there an external tool that we will use to facilitate communication and planning?
+    We're using Discord.
