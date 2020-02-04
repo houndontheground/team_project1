@@ -14,4 +14,7 @@ c. Who has the ability to create or delete remote branches?
 
     Everyone should be able to create and delete remote branches, but branches shouldn't be deleted or created without discussing the reasons behind it.
 
-d.
+d.When should you do a code review?
+    Before you commit and push
+    
+e. 
