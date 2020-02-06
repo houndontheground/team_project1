@@ -26,3 +26,13 @@ f. What happens if a scheduled task or functionality is not completed by a team 
 
 g. What files do our .gitignore files need to negate?
     None currently, but eventually password files and node.js files.
+    
+h. What timelines will you give for a particular task to be completed?
+
+    
+    
+i. What communication touch points do we need to establish throughout our workflow?
+
+    
+
+j. What is our documentation process for the application and workflow process?
