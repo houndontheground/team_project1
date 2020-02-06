@@ -29,11 +29,11 @@ g. What files do our .gitignore files need to negate?
     
 h. What timelines will you give for a particular task to be completed?
 
-    
+    Typically, smaller tasks should be completed between each class session. Bigger tasks should be discussed with the team to establish a reasonable time window to complete the respective material.
     
 i. What communication touch points do we need to establish throughout our workflow?
 
-    
+    We should discuss the project during each class session if given the time from the instructor, and once on the weekends.
 
 j. What is our documentation process for the application and workflow process?
     Track changes commited (include messages with each significant update) and mention anything significant in the Discord for posterity. 
