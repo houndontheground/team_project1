@@ -23,3 +23,6 @@ e. Is there an external tool that we will use to facilitate communication and pl
 f. What happens if a scheduled task or functionality is not completed by a team member?
 
     If a team member doesn't complete a designated task it will be up to them to take responsibility for the mistake and to understand that they are subject to a bad team review at the end of the project. If a team member cannot follow through on a scheduled task it is their responsibility to bring it up with their team in order to possibly swap jobs to keep productivity moving.
+
+g. What files do our .gitignore files need to negate?
+    None currently, but eventually password files and node.js files.
