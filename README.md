@@ -36,3 +36,4 @@ i. What communication touch points do we need to establish throughout our workfl
     
 
 j. What is our documentation process for the application and workflow process?
+    Track changes commited (include messages with each significant update) and mention anything significant in the Discord for posterity. 
